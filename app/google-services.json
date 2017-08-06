@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "586181600017",
-    "firebase_url": "https://mob13-24266.firebaseio.com",
-    "project_id": "mob13-24266",
-    "storage_bucket": "mob13-24266.appspot.com"
+    "project_number": "470672770844",
+    "firebase_url": "https://mob-firebase-a538c.firebaseio.com",
+    "project_id": "mob-firebase-a538c",
+    "storage_bucket": "mob-firebase-a538c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:586181600017:android:4d7367c06d5e2ae2",
+        "mobilesdk_app_id": "1:470672770844:android:4d7367c06d5e2ae2",
         "android_client_info": {
           "package_name": "br.com.andrecoutofirebase.a13mobfirebaseapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "586181600017-th98121hnfda1kuf3sn9orm1n50ld38o.apps.googleusercontent.com",
+          "client_id": "470672770844-sh2mpedd665vlsjmqqveme2139decudd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBTtpCins1exN41-rbM1anUIwHVtyn6gg0"
+          "current_key": "AIzaSyCqQ_t3_Qv1WC56eqA-6GcGNHlmglvCV38"
         }
       ],
       "services": {
